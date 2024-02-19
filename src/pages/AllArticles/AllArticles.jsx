@@ -46,7 +46,7 @@ const AllArticles = () => {
 
             <section className='px-4 lg:px-10  space-y-20 py-10 '>
                 <div className='flex flex-col lg:flex-row gap-6 '>
-                    <div className='w-full  lg:w-2/3'>
+                    <div className='w-full  lg:w-2/3'> 
                         {
                             allArticles &&
                             allArticles.map(allArticle => <>
