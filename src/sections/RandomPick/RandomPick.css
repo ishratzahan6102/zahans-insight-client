@@ -1,0 +1,13 @@
+.quarter-width {
+    width: 70%;
+}
+.remaining-width {
+    width: 30%;
+}
+.random-pick-banner {
+    background-image: url("../../assets/Logo & Banner/Website Youtuve Cover.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: right;
+    
+}
